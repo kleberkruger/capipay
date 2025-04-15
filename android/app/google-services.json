@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628347069635",
+    "project_id": "capipay",
+    "storage_bucket": "capipay.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628347069635:android:cbf5bf433610e06c5a2e76",
+        "android_client_info": {
+          "package_name": "br.ufms.capipay.capipay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj_rVU07pGtaHXShJKg1ABv68b-waTiLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

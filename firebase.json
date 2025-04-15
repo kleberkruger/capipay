@@ -1,0 +1,31 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "capipay",
+          "appId": "1:628347069635:android:cbf5bf433610e06c5a2e76",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "capipay",
+          "appId": "1:628347069635:ios:f5ec796522fd8dd45a2e76",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "capipay",
+          "configurations": {
+            "android": "1:628347069635:android:cbf5bf433610e06c5a2e76",
+            "ios": "1:628347069635:ios:f5ec796522fd8dd45a2e76",
+            "web": "1:628347069635:web:eab85aa5a29a04495a2e76"
+          }
+        }
+      }
+    }
+  }
+}
